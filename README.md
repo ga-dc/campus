@@ -1,6 +1,6 @@
 # GA DC Campus Ticket System
 
-## How do I do this? Don't worry, it's only these X steps!
+## How do I do this? Don't worry, it's only these 6 steps!
 
 1. Click 'Issues'
 2. Click 'New Issue'
