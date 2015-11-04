@@ -9,7 +9,7 @@
 5. Tag it with the appropriate lables
 6. Assign it to Amy and Nyemadi (Campus-Commander)
 
-### Lables:
+### Labels:
 * Classroom 1
 * Classroom 2
 * Classroom 3
