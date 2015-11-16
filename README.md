@@ -29,6 +29,7 @@ Issues will be assigned a priority by the Campus Experience team
 * Supplies
 * 
 
+| Tables        | Are           | Cool  | !             |
 | ----------- | ----------- | ----------- | ----------- |
 | Classroom 1 | Classroom 2 | Classroom 3 | Classroom 4 |
 | Classroom 5 | Classroom 6 | Common Areas | HVAC/Electric |
