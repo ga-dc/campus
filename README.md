@@ -9,6 +9,11 @@
 5. Tag it with the appropriate lables
 6. Assign it to Amy and Nyemadi (Campus-Commander)
 
+Issues will be assigned a priority by the Campus Experience team
+* High (Red - Estimated time to address: within the hour)
+* Medium (Yellow - Estimated time to address: 24-48 hours)
+* Low (Green - Estimated time to address: 72+ hours)
+
 ### Labels:
 * Classroom 1
 * Classroom 2
