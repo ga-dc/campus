@@ -27,3 +27,8 @@ Issues will be assigned a priority by the Campus Experience team
 * Mess (if things are dirty)
 * Restrooms
 * Supplies
+* 
+
+|Classroom 1|Classroom 2|Classroom 3|Classroom 4|
+|Classroom 5|Classroom 6|Common Areas|HVAC/Electric|
+|Kitchen|Mess (for dirty things!)|Restrooms|Supplies|
