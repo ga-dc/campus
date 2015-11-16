@@ -15,21 +15,8 @@ Issues will be assigned a priority by the Campus Experience team
 * Low (Green - Estimated time to address: 72+ hours)
 
 ### Labels:
-* Classroom 1
-* Classroom 2
-* Classroom 3
-* Classroom 4
-* Classroom 5
-* Classroom 6
-* Common Areas
-* HVAC/Electric
-* Kitchen
-* Mess (if things are dirty)
-* Restrooms
-* Supplies
-* 
 
-| Tables        | Are           | Cool  | !             |
+| Labels        | Are           | Cool  | !             |
 | ----------- | ----------- | ----------- | ----------- |
 | Classroom 1 | Classroom 2 | Classroom 3 | Classroom 4 |
 | Classroom 5 | Classroom 6 | Common Areas | HVAC/Electric |
